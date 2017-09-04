@@ -50,6 +50,10 @@ Você, aluno do curso Técnico em Desenvolvimento de Sistemas do SENAI, foi desi
 
 O ambiente pedagógico para situação de aprendizagem é composto de sala de aula equipada com projetor multimídia e laboratório de informática.
 
+Links de Referência:
+* [Documento de Visão](https://www.ibm.com/support/knowledgecenter/pt-br/SSR27Q_4.0.7/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html)
+* [OpenUP](http://epf.eclipse.org/wikis/openup/) [Guidance > Templates > Vision]
+
 ## Estratégia da Situação de Aprendizagem
 
 - [x] Situação-Problema
