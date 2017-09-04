@@ -31,13 +31,15 @@ Você, aluno do curso Técnico em Desenvolvimento de Sistemas do SENAI, foi desi
 * __Atividade 1__: Elaborar o [Documento de Visão](VISION.md), buscando:
     - Identificar as partes interessadas,
     - Obter acordo sobre o problema a ser resolvido,
-    - Reúnir pedidos de partes interessadas,
+    - Reunir pedidos de partes interessadas,
     - Definir o alcance da solução,
     - Definir recursos do sistema,
-    - Alcancar a concorrência.
+    - Alcançar a concorrência;
 
 * __Atividade 2__: Elaborar o [Glossário](), buscando:
-    - Capturar um vocabulário comum.
+    - Capturar um vocabulário comum;
+
+* __Atividade 3__: Realizar apresentação do Documento de Visão e Glossário.
 
 ## Relação de Materiais, Ferramentas, Instrumentos
 
