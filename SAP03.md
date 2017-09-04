@@ -28,7 +28,7 @@ Diante deste cenário, o SENAI procura desenvolver soluções sistêmicas e que 
 
 Você, aluno do curso Técnico em Desenvolvimento de Sistemas do SENAI, foi designado para _Desenvolver a Visão Técnica_ em equipe uma solução para atender a uma demandas específica que será indicadas pelo Centro de Formação Profissional em que está matriculado, buscando garantir a eficiência, confiabilidade e qualidade, bem como a redução do tempo nos processos internos.
 
-* __Atividade 1__: Elaborar o [Documento de Visão](), buscando:
+* __Atividade 1__: Elaborar o [Documento de Visão](VISION.md), buscando:
     - Identificar as partes interessadas,
     - Obter acordo sobre o problema a ser resolvido,
     - Reúnir pedidos de partes interessadas,
