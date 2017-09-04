@@ -14,65 +14,41 @@
 
 ## Contextalização
 
-Exemplo
-```
-A empresa Vedapack produz embalagens em Polietileno e Pet, fabricando frascos e potes com capacidades que variam de 10 a 1000ml, com serigrafia, acessórios e tampas com lacre.
+A empresa SENAI (Serviço Nacional de Aprendizagem Industrial do Ceará) é uma das mais respeitadas entidades de educação profissional e inovação tecnológica do Brasil, sendo referência em qualidade e credibilidade.
 
-Focada na qualidade dos seus produtos, acompanhando a evolução do mercado em que atua, a Vedapack investiu em equipamentos de ponta e implantou sistema de qualidade, consequentemente começou a ganhar mercado e conquistou o segmento de indústrias farmacêuticas.
+Focada na qualidade dos seus cursos, acompanhando a evolução do mercado em que atua, o SENAI buscou superar as expectativas da indústria e de seus trabalhadores, cumprindo os requisitos legais, por meio da melhoria contínua dos seus processos de educação profissional e tecnológica, serviços de tecnologia e inovação, desenvolvimento e valorização dos seus colaboradores.
 
-Seu parque industrial é considerado um dos grandes diferenciais da empresa, pois conta com quatro unidades climatizadas distintas com instalações projetadas dentro de rigorosos padrões e normas técnicas de higiene e assepsia, as boas práticas de fabricação.
+Desde a sua fundação, o SENAI cumpre um papel fundamental e histórico na formação do trabalhador. Afinal, através dele, vários profissionais da indústria receberam uma formação qualificada. O resultado foi mais desenvolvimento para o país, que passou a ser mais industrializado e consequentemente menos dependente de alguns países desenvolvidos.
 
-A empresa utiliza máquinas AOKI para a fabricação dos frascos, não existe uma contagem dos frascos produzidos, a quantidade produzida é estimada através de uma etapa de pesagem.
+Hoje, o SENAI mantém o papel protagonista na concepção de atividades que ampliem a geração de emprego e renda no estado, além de promover a serviços de tecnologia e inovação para as indústrias. Buscando promover a educação profissional e tecnológica, a inovação e a transferência de tecnologias industriais, contribuindo para elevar a competitividade da Indústria.
 
-Diante deste cenário, a Vedapack procura uma solução para a realização da contagem dos frascos produzidos de forma rápida e eficiente, eliminando assim, a etapa de pesagem, garantindo a confiabilidade e qualidade no processo produtivo.
-```
-  
+Diante deste cenário, o SENAI procura desenvolver soluções sistêmicas e que sejam referência como provedor de soluções integradas em educação profissional, tecnologia, pesquisa aplicada e inovação, buscando, continuamente, a excelência, a sustentabilidade e agregando valor para a indústria até 2022.
+
 ## Desafio
 
-Exemplo
-```
-Você, aluno do curso Técnico em Manutenção e Suporte em Informática do SENAI, foi designado para desenvolver uma solução para a eliminação da etapa de pesagem através de um contador de frascos, garantindo a confiabilidade e qualidade, bem como a redução do tempo no processo produtivo.
+Você, aluno do curso Técnico em Desenvolvimento de Sistemas do SENAI, foi designado para _Desenvolver a Visão Técnica_ em equipe uma solução para atender a uma demandas específica que será indicadas pelo Centro de Formação Profissional em que está matriculado, buscando garantir a eficiência, confiabilidade e qualidade, bem como a redução do tempo nos processos internos.
 
-Atividade 1: Elaborar a solução Contador de Frascos, contemplando desenhos, diagramas, documentação, levantamento de custos e aquisição de material e treinamento de pessoal;
+* __Atividade 1__: Elaborar o [Documento de Visão](), buscando:
+    - Identificar as partes interessadas,
+    - Obter acordo sobre o problema a ser resolvido,
+    - Reúnir pedidos de partes interessadas,
+    - Definir o alcance da solução,
+    - Definir recursos do sistema,
+    - Alcancar a concorrência.
 
-Atividade 2: Construir o contador de frascos, a fabricação de placas, montagem e programação do circuito eletrônico, instalação e calibragem dos sensores que irão captar a passagem dos frascos e enviar os sinais para o circuito integrado e exibição da contagem no display;
-
-Atividade 3: Coletar dados, analisar os resultados obtidos, gerar relatórios para consulta;
-
-Atividade 4: Realizar a construção de um plano de negócios referente ao projeto, seguindo o modelo Business CANVAS;
-
-Atividade 5: Realizar a criação do vídeo Pitch para a apresentação do protótipo e plano de negócios (CANVAS);
-```
+* __Atividade 2__: Elaborar o [Glossário](), buscando:
+    - Capturar um vocabulário comum.
 
 ## Relação de Materiais, Ferramentas, Instrumentos
 
-Exemplo
-```
-* 01 Oscilador 20Mhz
-* 01 PIC 16F877/18F4550
-* 01 Sensor infravermelho ativo (barreira)
-* 01 Conector USB (fêmea)
-* 01 LCD 16x2
-* 01 Socket 40pinos para PIC
-* 01 Placa de fenolite 10cm x 5cm
-* 01 LED
-* 01 Chave liga/desliga
-* 01 Modulo Bluetooth para PIC
-* 01 Fonte 5V
-* 01 Case
-* 01 Suporte para sensor Infravermelho ativo (barreira)
-* 01 Resistor 440R
-* 01 Resistor 220R
-* 01 Resistor 10k
-* 01 Capacitor 10uF/50V
-```
+* 01 Microcomputador
+* 01 Lápis
+* 01 Borracha
+* 01 Caderno de Notas
 
 ## Outras Informações Necessárias
 
-Exemplo
-```
-O ambiente pedagógico para situação de aprendizagem é composto de sala de aula equipada com projetor multimídia, laboratório de informática e eletrônica digital.
-```
+O ambiente pedagógico para situação de aprendizagem é composto de sala de aula equipada com projetor multimídia e laboratório de informática.
 
 ## Estratégia da Situação de Aprendizagem
 
